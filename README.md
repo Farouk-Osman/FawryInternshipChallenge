@@ -79,7 +79,7 @@ Here's a brief description of each Java class in the project:
 
 ## UML Diagram
 
-*(A UML diagram illustrating the relationships between the classes would be beneficial here. This can be generated using tools like PlantUML or Mermaid and added as an image.)*
+![UML Class Diagram](class_diagram.png)
 
 ## Contributing
 
